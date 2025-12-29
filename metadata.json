@@ -1,0 +1,8 @@
+{
+  "name": "LifeFlow",
+  "description": "Professional Daily Assistant & Habit Tracker",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
